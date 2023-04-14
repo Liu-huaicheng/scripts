@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name         BO FAT Auto Login
-// @description  Login automatically to Backoffice on local and Fat env
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @license      MIT
-// @author       You
-// @match        htt*://*.shub.us/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=storehub.com
-// @grant        none
-// ==/UserScript==
-
 (function() {
     'use strict';
 
